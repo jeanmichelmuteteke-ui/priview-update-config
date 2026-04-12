@@ -1,7 +1,7 @@
 {
-  "androidLatestVersion": "1.0.0",
+  "androidLatestVersion": "1.0.1",
   "androidMinSupportedVersion": "1.0.0",
-  "iosLatestVersion": "1.0.0",
+  "iosLatestVersion": "1.0.1",
   "iosMinSupportedVersion": "1.0.0",
   "androidStoreUrl": "https://play.google.com/store/search?q=minecraft&c=apps&utm_source=na_Med",
   "iosStoreUrl": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143"
