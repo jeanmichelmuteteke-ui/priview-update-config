@@ -3,6 +3,6 @@
   "androidMinSupportedVersion": "1.0.0",
   "iosLatestVersion": "1.0.0",
   "iosMinSupportedVersion": "1.0.0",
-  "androidStoreUrl": "",
-  "iosStoreUrl": ""
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.jmmtechsoftware.priview",
+  "iosStoreUrl": "https://apps.apple.com/us/app/priview-private-viewer/id6761788081"
 }
